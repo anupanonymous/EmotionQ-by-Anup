@@ -1,7 +1,7 @@
 # Emotion Detection System with IoT & AI
 
 **Author:** [Anup Chapagain](https://github.com/anupanonymous)  
-**Email:** uanup.mpersonal.a@gmail.com  
+**Email:** me@anupchapagain.com 
 **GitHub:** [anupanonymous](https://github.com/anupanonymous)  
 
 ---
