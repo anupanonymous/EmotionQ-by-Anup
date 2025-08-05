@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+env/
+venv/
+lib/
+bin/
+include/
+share/
+*.h5
+*.so
+*.pkl
+*.zip
+*.mp4
+*.mov
