@@ -53,9 +53,11 @@ This system can be **adapted for multiple real-world applications**:
 **Sample Outputs:**
 
 <p align="center">
-  <img src="sample_output/happy.png" width="220" />
-  <img src="sample_output/sad.png" width="220" />
-  <img src="sample_output/angry.png" width="220" />
+  <img src="screenshots/captured_frame.jpg" width="220" />
+  <img src="screenshots/debug_frame_0.jpg" width="220" />
+  <img src="screenshots/debug_frame_1.jpg" width="220" />
+  <img src="screenshots/debug_frame_2.jpg" width="220" />
+  <img src="screenshots/debug_frame_3.jpg" width="220" />
 </p>
 
 ---
